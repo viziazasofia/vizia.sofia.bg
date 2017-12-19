@@ -8,20 +8,20 @@
 Връзки за сваляне и мета информация към всички качени файлове -
 https://vizia.sofia.bg/wp-json/wp/v2/media
 
-Всички новини
+Всички новини -
 https://vizia.sofia.bg/wp-json/wp/v2/posts/
 
-Конкретна новина с съдържание
+Конкретна новина с съдържание -
 https://vizia.sofia.bg/wp-json/wp/v2/posts/<id>
 
-Всички страници (направления)
+Всички страници (направления) -
 https://vizia.sofia.bg/wp-json/wp/v2/pages/
 
-Конкретна страници (направлениe)
+Конкретна страници (направлениe) -
 https://vizia.sofia.bg/wp-json/wp/v2/pages/<id>
 
-Всички тагове (категории)
+Всички тагове (категории) -
 https://vizia.sofia.bg/wp-json/wp/v2/tags
 
-Съдържание по конкретен таг (категории)
+Съдържание по конкретен таг (категории) -
 https://vizia.sofia.bg/wp-json/wp/v2/tags/<id>
